@@ -15,7 +15,7 @@ Opcode | MOD-REG-R/M | Displacement | Immediate
 **32-bit mode:**
 
 Address\_size | Operand\_size | Opcode | MOD-REG-R/M | Scaled_index | Displacement | Immediate
--- | -- | -- |
+-- | -- | -- | -- | -- | -- | --
 0-1 bytes | 0-1 bytes | 1-2 bytes | 0-1 bytes | 0-1 bytes | 0-4 bytes | 0-4 bytes
 
 formats:  
