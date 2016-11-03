@@ -38,9 +38,9 @@ formats:
  - PUSHA/POPA 所有 16 位寄存器  
  - PUSHAD/POPAD 所有 32 位寄存器  
 
-![](file:///D:\Schools\G3-1\ASM&PORT\PicForNote\TABLE4-7.png)
+![](.\PicForNote\TABLE4-7.png)
 
-![](file:///D:\Schools\G3-1\ASM&PORT\PicForNote\TABLE4-8.png)
+![](.\PicForNote\TABLE4-8.png)
 
 以 POP BX 为例：
 
@@ -71,7 +71,7 @@ format: LEA reg, MEM; MEM 必须是内存地址，将后者的计算地址保存
 如果出现溢出的话会去掉最高的符号位  
 **该操作往往用于多个数字的复杂计算**
 
-![](file:///D:\Schools\G3-1\ASM&PORT\PicForNote\TABLE4-9.png)
+![](.\PicForNote\TABLE4-9.png)
 
 format:
 **LXS reg, MEM**  
