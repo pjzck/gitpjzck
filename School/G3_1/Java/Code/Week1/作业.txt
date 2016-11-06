@@ -1,6 +1,0 @@
-String 类：
-String 类是有字符串构成的序列。在Java的源码中，String 类采用的依旧是和其他语言相同的 Char 类型数组为基础来建立对应的 String 类数值域。但是从源代码中我们可以发现它采用的是 final 标识符，因此 Java 中的 String 类
-
-StringBuffer 类：
-
-StringBuilder 类：

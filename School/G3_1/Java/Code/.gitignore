@@ -1,12 +1,9 @@
-# custom
 *.txt
 *.zip
 
-# standard
 *.class
 *.bak
 
-# packages
 *.jar
 *.war
 *.ear
