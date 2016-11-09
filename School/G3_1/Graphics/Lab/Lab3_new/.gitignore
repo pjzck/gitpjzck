@@ -1,4 +1,4 @@
 .vs/
 Debug/
-.opendb
-.VC.db
+*.opendb
+*.VC.db
